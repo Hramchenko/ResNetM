@@ -1,0 +1,21 @@
+# ninja log v5
+1	790	1590485856	CMakeFiles/native-lib.dir/native-lib.cpp.o	98b1a7e3d9330025
+790	821	1590485856	/home/user/protfolio/Publications/mace/ResNetM/app/build/intermediates/cmake/debug/obj/arm64-v8a/libnative-lib.so	632d52be67e042ec
+0	756	1590486478	CMakeFiles/native-lib.dir/native-lib.cpp.o	98b1a7e3d9330025
+756	784	1590486478	/home/user/protfolio/Publications/mace/ResNetM/app/build/intermediates/cmake/debug/obj/arm64-v8a/libnative-lib.so	632d52be67e042ec
+0	826	1590486695	CMakeFiles/native-lib.dir/native-lib.cpp.o	98b1a7e3d9330025
+827	855	1590486695	/home/user/protfolio/Publications/mace/ResNetM/app/build/intermediates/cmake/debug/obj/arm64-v8a/libnative-lib.so	632d52be67e042ec
+0	735	1590491066	CMakeFiles/native-lib.dir/native-lib.cpp.o	98b1a7e3d9330025
+735	765	1590491066	/home/user/protfolio/Publications/mace/ResNetM/app/build/intermediates/cmake/debug/obj/arm64-v8a/libnative-lib.so	632d52be67e042ec
+0	752	1590493624	CMakeFiles/native-lib.dir/native-lib.cpp.o	98b1a7e3d9330025
+0	52	1590493699	/home/user/protfolio/Publications/mace/ResNetM/app/build/intermediates/cmake/debug/obj/arm64-v8a/libnative-lib.so	496a7cd21eafe0eb
+0	924	1590495015	CMakeFiles/native-lib.dir/native-lib.cpp.o	98b1a7e3d9330025
+924	964	1590495015	/home/user/protfolio/Publications/mace/ResNetM/app/build/intermediates/cmake/debug/obj/arm64-v8a/libnative-lib.so	496a7cd21eafe0eb
+1	934	1590495177	CMakeFiles/native-lib.dir/native-lib.cpp.o	98b1a7e3d9330025
+934	973	1590495178	/home/user/protfolio/Publications/mace/ResNetM/app/build/intermediates/cmake/debug/obj/arm64-v8a/libnative-lib.so	496a7cd21eafe0eb
+0	967	1590495800	CMakeFiles/native-lib.dir/native-lib.cpp.o	98b1a7e3d9330025
+967	1006	1590495800	/home/user/protfolio/Publications/mace/ResNetM/app/build/intermediates/cmake/debug/obj/arm64-v8a/libnative-lib.so	496a7cd21eafe0eb
+0	924	1590496118	CMakeFiles/native-lib.dir/native-lib.cpp.o	98b1a7e3d9330025
+924	961	1590496118	/home/user/protfolio/Publications/mace/ResNetM/app/build/intermediates/cmake/debug/obj/arm64-v8a/libnative-lib.so	496a7cd21eafe0eb
+1	954	1590497134	CMakeFiles/native-lib.dir/native-lib.cpp.o	98b1a7e3d9330025
+954	995	1590497134	/home/user/protfolio/Publications/mace/ResNetM/app/build/intermediates/cmake/debug/obj/arm64-v8a/libnative-lib.so	496a7cd21eafe0eb

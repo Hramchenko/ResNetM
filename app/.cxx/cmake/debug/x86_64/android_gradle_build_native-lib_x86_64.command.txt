@@ -1,0 +1,7 @@
+Executable : /home/user/ML/Android/SDK/cmake/3.10.2.4988404/bin/ninja
+arguments : 
+-C
+/home/user/protfolio/Publications/mace/ResNetM/app/.cxx/cmake/debug/x86_64
+native-lib
+jvmArgs : 
+

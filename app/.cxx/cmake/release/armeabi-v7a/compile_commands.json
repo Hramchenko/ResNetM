@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/home/user/protfolio/Publications/mace/ResNetM/app/.cxx/cmake/release/armeabi-v7a",
+  "command": "/home/user/ML/Android/SDK/ndk/20.0.5594570/toolchains/llvm/prebuilt/linux-x86_64/bin/clang++ --target=armv7-none-linux-androideabi26 --gcc-toolchain=/home/user/ML/Android/SDK/ndk/20.0.5594570/toolchains/llvm/prebuilt/linux-x86_64 --sysroot=/home/user/ML/Android/SDK/ndk/20.0.5594570/toolchains/llvm/prebuilt/linux-x86_64/sysroot  -Dnative_lib_EXPORTS -I/home/user/ML/Android/MACE/libmace-v0.13.0/include  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -fno-addrsig -march=armv7-a -mthumb -mfpu=neon -Wa,--noexecstack -Wformat -Werror=format-security   -Oz -DNDEBUG  -fPIC   -o CMakeFiles/native-lib.dir/native-lib.cpp.o -c /home/user/protfolio/Publications/mace/ResNetM/app/src/main/cpp/native-lib.cpp",
+  "file": "/home/user/protfolio/Publications/mace/ResNetM/app/src/main/cpp/native-lib.cpp"
+}
+]

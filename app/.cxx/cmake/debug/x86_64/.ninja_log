@@ -1,0 +1,5 @@
+# ninja log v5
+0	273	1590481115	CMakeFiles/native-lib.dir/native-lib.cpp.o	a6cd7ecbfd31bbf3
+273	389	1590481115	/home/user/protfolio/Publications/mace/ResNetM/app/build/intermediates/cmake/debug/obj/x86_64/libnative-lib.so	dd250a93731c3fa6
+0	288	1590481336	CMakeFiles/native-lib.dir/native-lib.cpp.o	79c43027c27c23ce
+288	315	1590481336	/home/user/protfolio/Publications/mace/ResNetM/app/build/intermediates/cmake/debug/obj/x86_64/libnative-lib.so	dd250a93731c3fa6

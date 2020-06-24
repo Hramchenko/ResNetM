@@ -1,0 +1,42 @@
+{
+  "stringTable": {
+    "0": "/home/user/protfolio/Publications/mace/ResNetM/app/.cxx/cmake/debug/x86_64",
+    "1": "--target=x86_64-none-linux-android26 --gcc-toolchain=/home/user/ML/Android/SDK/ndk/20.0.5594570/toolchains/llvm/prebuilt/linux-x86_64 --sysroot=/home/user/ML/Android/SDK/ndk/20.0.5594570/toolchains/llvm/prebuilt/linux-x86_64/sysroot -Dnative_lib_EXPORTS -I/home/user/ML/Android/MACE/libmace-v0.13.0/include -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -fno-addrsig -Wa,--noexecstack -Wformat -Werror=format-security -O0 -fno-limit-debug-info -fPIC"
+  },
+  "buildFiles": [
+    "/home/user/ML/Android/SDK/ndk/20.0.5594570/build/cmake/platforms.cmake",
+    "/home/user/protfolio/Publications/mace/ResNetM/app/src/main/cpp/CMakeLists.txt",
+    "/home/user/ML/Android/SDK/ndk/20.0.5594570/build/cmake/android.toolchain.cmake"
+  ],
+  "cleanCommands": [
+    "/home/user/ML/Android/SDK/cmake/3.10.2.4988404/bin/ninja -C \"/home/user/protfolio/Publications/mace/ResNetM/app/.cxx/cmake/debug/x86_64\" clean"
+  ],
+  "buildTargetsCommand": "/home/user/ML/Android/SDK/cmake/3.10.2.4988404/bin/ninja  -C \"/home/user/protfolio/Publications/mace/ResNetM/app/.cxx/cmake/debug/x86_64\" {LIST_OF_TARGETS_TO_BUILD}",
+  "libraries": {
+    "native-lib-Debug-x86_64": {
+      "buildCommand": "/home/user/ML/Android/SDK/cmake/3.10.2.4988404/bin/ninja -C \"/home/user/protfolio/Publications/mace/ResNetM/app/.cxx/cmake/debug/x86_64\" native-lib",
+      "buildType": "debug",
+      "toolchain": "1853709651",
+      "abi": "x86_64",
+      "artifactName": "native-lib",
+      "files": [
+        {
+          "src": "/home/user/protfolio/Publications/mace/ResNetM/app/src/main/cpp/native-lib.cpp",
+          "flagsOrdinal": 1,
+          "workingDirectoryOrdinal": 0
+        }
+      ],
+      "headers": [],
+      "output": "/home/user/protfolio/Publications/mace/ResNetM/app/build/intermediates/cmake/debug/obj/x86_64/libnative-lib.so"
+    }
+  },
+  "toolchains": {
+    "1853709651": {
+      "cppCompilerExecutable": "/home/user/ML/Android/SDK/ndk/20.0.5594570/toolchains/llvm/prebuilt/linux-x86_64/bin/clang++"
+    }
+  },
+  "cFileExtensions": [],
+  "cppFileExtensions": [
+    "cpp"
+  ]
+}

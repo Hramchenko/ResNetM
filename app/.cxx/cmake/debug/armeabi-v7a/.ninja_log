@@ -1,0 +1,21 @@
+# ninja log v5
+0	700	1590485857	CMakeFiles/native-lib.dir/native-lib.cpp.o	279733c02548e6ef
+700	716	1590485857	/home/user/protfolio/Publications/mace/ResNetM/app/build/intermediates/cmake/debug/obj/armeabi-v7a/libnative-lib.so	53ca4b80e1f80df
+1	763	1590486479	CMakeFiles/native-lib.dir/native-lib.cpp.o	279733c02548e6ef
+763	781	1590486479	/home/user/protfolio/Publications/mace/ResNetM/app/build/intermediates/cmake/debug/obj/armeabi-v7a/libnative-lib.so	53ca4b80e1f80df
+0	763	1590486695	CMakeFiles/native-lib.dir/native-lib.cpp.o	279733c02548e6ef
+763	780	1590486696	/home/user/protfolio/Publications/mace/ResNetM/app/build/intermediates/cmake/debug/obj/armeabi-v7a/libnative-lib.so	53ca4b80e1f80df
+1	743	1590491067	CMakeFiles/native-lib.dir/native-lib.cpp.o	279733c02548e6ef
+743	760	1590491067	/home/user/protfolio/Publications/mace/ResNetM/app/build/intermediates/cmake/debug/obj/armeabi-v7a/libnative-lib.so	53ca4b80e1f80df
+1	705	1590493700	CMakeFiles/native-lib.dir/native-lib.cpp.o	279733c02548e6ef
+705	724	1590493700	/home/user/protfolio/Publications/mace/ResNetM/app/build/intermediates/cmake/debug/obj/armeabi-v7a/libnative-lib.so	39b1bd5bc42f67a0
+1	952	1590495016	CMakeFiles/native-lib.dir/native-lib.cpp.o	279733c02548e6ef
+952	973	1590495016	/home/user/protfolio/Publications/mace/ResNetM/app/build/intermediates/cmake/debug/obj/armeabi-v7a/libnative-lib.so	39b1bd5bc42f67a0
+0	986	1590495179	CMakeFiles/native-lib.dir/native-lib.cpp.o	279733c02548e6ef
+986	1012	1590495179	/home/user/protfolio/Publications/mace/ResNetM/app/build/intermediates/cmake/debug/obj/armeabi-v7a/libnative-lib.so	39b1bd5bc42f67a0
+0	996	1590495801	CMakeFiles/native-lib.dir/native-lib.cpp.o	279733c02548e6ef
+996	1018	1590495801	/home/user/protfolio/Publications/mace/ResNetM/app/build/intermediates/cmake/debug/obj/armeabi-v7a/libnative-lib.so	39b1bd5bc42f67a0
+1	967	1590496119	CMakeFiles/native-lib.dir/native-lib.cpp.o	279733c02548e6ef
+967	988	1590496119	/home/user/protfolio/Publications/mace/ResNetM/app/build/intermediates/cmake/debug/obj/armeabi-v7a/libnative-lib.so	39b1bd5bc42f67a0
+0	991	1590497135	CMakeFiles/native-lib.dir/native-lib.cpp.o	279733c02548e6ef
+991	1012	1590497135	/home/user/protfolio/Publications/mace/ResNetM/app/build/intermediates/cmake/debug/obj/armeabi-v7a/libnative-lib.so	39b1bd5bc42f67a0

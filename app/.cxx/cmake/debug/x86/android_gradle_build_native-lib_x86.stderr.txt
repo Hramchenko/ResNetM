@@ -1,0 +1,1 @@
+ninja: error: '/home/user/protfolio/Publications/mace/ResNetM/app/libmace/x86/libmace.so', needed by '/home/user/protfolio/Publications/mace/ResNetM/app/build/intermediates/cmake/debug/obj/x86/libnative-lib.so', missing and no known rule to make it
