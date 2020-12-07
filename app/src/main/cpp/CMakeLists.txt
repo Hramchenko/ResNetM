@@ -9,8 +9,7 @@ cmake_minimum_required(VERSION 3.4.1)
 # or SHARED, and provides the relative paths to its source code.
 # You can define multiple libraries, and CMake builds them for you.
 # Gradle automatically packages shared libraries with your APK.
-
-include_directories(/home/user/ML/Android/MACE/libmace-v0.13.0/include/)
+include_directories(/home/user/ML/Android/MACE_NEW/libmace-v1.0.0/include/)
 
 add_library( # Sets the name of the library.
              native-lib
